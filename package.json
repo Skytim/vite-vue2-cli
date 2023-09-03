@@ -5,7 +5,10 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "dev": "vite",
+    "vitebuild": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "core-js": "^3.8.3",
